@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>Information</title>
+
+    </head>
+
+    <body>
+
+        <h1 style="background-color:orange">Amol Kulkarni</h1>
+         <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>BE, Mechanical Engg.</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Pune, Maharashtra, India</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>amolkulkarni357@gmail.com </p>
+          <!--- <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>1224435534</p> --->
+          <hr>
+          
+          
+          <h3 class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></h3>
+          <p>English</p>
+          <p>Hindi</p>
+          <p>Marathi</p>
+          <!--- <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>1224435534</p> --->
+          <hr>
+          
+          
+<div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 style="background-color:mediumseagreen"class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+       
+        <div class="w3-container">
+          <h3 class="w3-opacity"><b>Indira College of Engineering and Management, Pune</b></h3>
+          <h5 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>BE, Mechanical<br> 8.79 CGPA </h5>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h3 class="w3-opacity"><b>Rajarshi Shahu College, Latur</b></h3>
+          <h5 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>HSC <br> 78%</h5>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h3 class="w3-opacity"><b>Shri Keshavraj Vidyalaya, Latur</b></h3>
+          <h5 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>SSC<br> 95%</h5>
+        </div>
+      </div>
+        
+    </body>
+
+</html>
